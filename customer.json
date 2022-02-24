@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "nombre": "Primero",
+    "telefono": "11111",
+    "correo": "PrimerEmail",
+	"fechaDeNacimiento": "01_01_/2000"
+  },
+  {
+    "id": "2",
+    "nombre": "Segundo",
+    "telefono": "22222",
+    "correo": "SegundoEmail",
+	"fechaDeNacimiento": "02_02_/2000"
+  }
+  
+]
